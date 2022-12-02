@@ -1,1 +1,3 @@
 Esta es la rama de desarrollo
+El trabajo de los colaboradores del equipo se hizo desde un mismo dispositivo y por ello no apareceran las ramas de los msimos, sin embargo se realizara el trabajo de la creacion de ramas en Git y se adjuntara al repositorio remoto. 
+
